@@ -3,4 +3,4 @@
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=LiningOn&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiningOn)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LiningOn&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)

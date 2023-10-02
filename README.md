@@ -4,8 +4,8 @@
   <!-- dynamic typing effect 动态打字效果 -->
 
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小Lin今天也在搬砖!&center=true&size=27" alt="Typing SVG" />
+    <a href="">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I hope the Pacific Ocean is as blue as I dreamed;我希望太平洋的海水和我梦中的一样蓝&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -46,13 +46,11 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <p>&emsp;&emsp;大家好，我是小Lin同学。</p>
-<p>&emsp;&emsp;热爱编程、看电影、机器人。</p>
-<p>&emsp;&emsp;目前是一名硕鼠了。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;热爱机器人和编程、喜欢看电影、听音乐。</p>
+<p>&emsp;&emsp;鼠鼠即将到成为研究僧了，希望未来充满希望！</p>
 
 </td></tr>
 
@@ -61,12 +59,11 @@
 
 
 
-### 🏢 Work Experience
+### 🏢 School Experience
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— Now
-
+- 广州图慧信息科技有限公司&emsp; 📌 2023-06-19 —— Now
   - 工作岗位：Web前端开发工程师（初级）
   - 工作内容：GIS相关
 
@@ -86,7 +83,7 @@
 
 ### 📃 Recent Blog
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+
 
 <!-- START_SECTION:blog -->
 

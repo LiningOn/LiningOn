@@ -5,7 +5,7 @@
 
   <div align="center">
     <a href="">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I hope the Pacific Ocean is as blue as I dreamed;我希望太平洋的海水和我梦中的一样蓝&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&lines=I hope the Pacific Ocean is as blue as I dreamed.;我希望太平洋的海水和我梦中的一样蓝。&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 

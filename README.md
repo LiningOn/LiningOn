@@ -67,10 +67,9 @@
 
 <!-- START_SECTION:douban -->
 
-* <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在瓦尔登湖</a> 🌟🌟🌟🌟🌟 力荐- 2023-10-03
+* <a href='https://book.douban.com/subject/3815126/' target='_blank'>最近在瓦尔登湖</a> 🌟🌟🌟🌟🌟 力荐- 2023-10-03
 * <a href='http://movie.douban.com/subject/1292052/' target='_blank'>看过肖申克的救赎</a> 🌟🌟🌟🌟🌟 力荐- 2022-02-07
-* <a href='https://music.douban.com/subject/26567580/' target='_blank'>听过笔记</a> 🌟🌟🌟🌟🌟 力荐- 2023-01-07
-* <a href='http://movie.douban.com/subject/35465232/' target='_blank'>在看悠久之翼</a> 🌟🌟🌟🌟🌟 力荐- 2023-09-29
+* <a href='https://music.douban.com/subject/3819864/' target='_blank'>听过犯罪高手</a> 🌟🌟🌟🌟🌟 力荐- 2023-06-07
   <!-- END_SECTION:douban -->
 
 </td></tr>
